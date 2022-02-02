@@ -1,0 +1,5 @@
+module.exports = {
+  PASSWORD_SALT: 11,
+  STATUS_AVAILABLE: 1,
+  STATUS_UNAVAILABLE: 2
+}
